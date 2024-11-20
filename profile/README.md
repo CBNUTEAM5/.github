@@ -9,9 +9,9 @@
 - 안정성: 부하 분산으로 서버 과부하를 방지하고 안정적인 요청 처리 보장
 
 ## team
-김예진(https://github.com/jennienn)): HTTP 통신을 처리하는 웹서버 구현
-이정현(https://github.com/boxty123_: 해시 알고리즘을 사용한 로드밸런서 구현
-안치현(https://github.com/chahee0708): 라운드로빈 알고리즘을 적용한 로드밸런서 구현
+- 김예진[@jennienn](https://github.com/jennienn): HTTP 통신을 처리하는 웹서버 구현
+- 이정현(https://github.com/boxty123): 해시 알고리즘을 사용한 로드밸런서 구현
+- 안치현(https://github.com/chahee0708): 라운드로빈 알고리즘을 적용한 로드밸런서 구현
 
 
 
